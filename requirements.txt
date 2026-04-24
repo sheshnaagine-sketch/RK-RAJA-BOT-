@@ -1,0 +1,7 @@
+flask
+flask-socketio
+eventlet
+requests
+gunicorn
+pycryptodome
+beautifulsoup4
